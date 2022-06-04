@@ -1,0 +1,34 @@
+---
+title: "Publicaciones"
+author: "LMS"
+date: '2022-06-04'
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+source('proceso.R')
+```
+
+# Intro
+Presentación sobre publicaciones
+
+
+## Frecuencia de documentos por autor
+
+```{r}
+
+```
+
+## Slide with R Output
+
+```{r cars, echo = TRUE}
+summary(cars)
+```
+
+## Slide with Plot
+
+```{r pressure}
+plot(pressure)
+```
+
